@@ -35,7 +35,7 @@ const gameplay = (user,comp)=>{
         
         userScr++;
         userScore.innerHTML = userScr;
-        return `Tu Jit Gaila Ho Bhaiya! <br>${user} beats ${comp}`
+        return `Tu Jeet Gaila Ho Bhaiya! <br>${user} beats ${comp}`
     }
     else
     {
